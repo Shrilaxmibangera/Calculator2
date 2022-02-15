@@ -1,6 +1,7 @@
 var ans='';
 var res='';
 var answer='';
+
 function cal(btnvalue) {
     ans=btnvalue;
     if(ans=='=') {
